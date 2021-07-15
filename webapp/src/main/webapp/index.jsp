@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to PSR Technologies !!! </h1>
+<h1> Hi, Welcome to PSR Technologies !!! </h1>
 
